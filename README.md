@@ -1,7 +1,7 @@
 # 🛰️ Vehicle Image Recognition
 
 <p align="center">
-  <img src="media/example_inference.png" alt="Example Inference" width="40%"/>
+  <img src="media/example_inference.png" alt="Example Inference" width="100%"/>
 </p>
 
 ## Comparing the performance of different YOLOv5 models on drone imagery
@@ -10,17 +10,17 @@ In this application, we compare the performance of different YOLOv5 models for d
 military vehicles in drone imagery.
 
 <p align="center">
-  <img src="media/model_comparison.png" alt="YOLOv5 Model Sizes" width="50%"/>
+  <img src="media/model_comparison.png" alt="YOLOv5 Model Sizes" width="80%"/>
 </p>
 
 Learn more about this project <a href="https://github.com/AlexandreSajus/Military-Vehicles-Image-Recognition" target="_blank">here</a>.
 
 <p align="center">
-  <img src="media/accuracy_latency.png" alt="Comparing Accuracy against Latency of Models" width="80%"/>
+  <img src="media/accuracy_latency.png" alt="Comparing Accuracy against Latency of Models" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="media/compare_results.png" alt="Comparing Inference Result Images" width="80%"/>
+  <img src="media/compare_results.png" alt="Comparing Inference Result Images" width="100%"/>
 </p>
 
 ## How to use
