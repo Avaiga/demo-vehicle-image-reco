@@ -1,0 +1,20 @@
+{
+"id": "TASK_train_b3919ea2-f7cc-4fa4-b7e1-9da0f709c70d",
+"owner_id": "SCENARIO_scenario_configuration_ce1d3ac0-6eb0-4ac6-8a8c-68c0639e0573",
+"parent_ids": [
+"SCENARIO_scenario_configuration_ce1d3ac0-6eb0-4ac6-8a8c-68c0639e0573"
+],
+"config_id": "train",
+"input_ids": [
+"DATANODE_model_name_281e2e31-c0a0-49cd-8671-3fb3ccff0153",
+"DATANODE_batch_size_c0aacc5b-43de-4067-815d-69cb77c8f687"
+],
+"function_name": "launch_train",
+"function_module": "algos",
+"output_ids": [
+"DATANODE_run_name_b3091144-e9b9-4813-93db-49a6814c4814"
+],
+"version": "1.0",
+"skippable": false,
+"properties": {}
+}

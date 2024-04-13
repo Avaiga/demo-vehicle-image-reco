@@ -1,0 +1,19 @@
+{
+"id": "TASK_infer_a20c1700-ba63-4c3e-ac25-15dfcc84e758",
+"owner_id": "SCENARIO_scenario_configuration_5fc6e196-826a-4f6a-a21f-be008b9f4b48",
+"parent_ids": [
+"SCENARIO_scenario_configuration_5fc6e196-826a-4f6a-a21f-be008b9f4b48"
+],
+"config_id": "infer",
+"input_ids": [
+"DATANODE_run_name_d3102ad4-5f13-414c-998d-48f9993bac3b"
+],
+"function_name": "run_inference",
+"function_module": "algos",
+"output_ids": [
+"DATANODE_output_path_b5ba530a-9bca-4fff-90f1-b446aff3d352"
+],
+"version": "1.0",
+"skippable": false,
+"properties": {}
+}

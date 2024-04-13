@@ -1,0 +1,19 @@
+{
+"id": "TASK_get_results_9a87b3a6-0171-4d11-9a96-5cbc6be0f0b6",
+"owner_id": "SCENARIO_scenario_configuration_565fb0cd-1d9d-415d-b0e6-6bcc43f85e7a",
+"parent_ids": [
+"SCENARIO_scenario_configuration_565fb0cd-1d9d-415d-b0e6-6bcc43f85e7a"
+],
+"config_id": "get_results",
+"input_ids": [
+"DATANODE_run_name_5ef111d2-dcc4-455d-917e-fc04ff7f07ac"
+],
+"function_name": "get_results",
+"function_module": "algos",
+"output_ids": [
+"DATANODE_results_d8e2198a-0b04-407a-845b-f6fa906bbcfa"
+],
+"version": "1.0",
+"skippable": false,
+"properties": {}
+}

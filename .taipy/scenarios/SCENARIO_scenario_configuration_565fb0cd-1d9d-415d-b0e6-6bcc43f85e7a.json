@@ -1,0 +1,20 @@
+{
+"id": "SCENARIO_scenario_configuration_565fb0cd-1d9d-415d-b0e6-6bcc43f85e7a",
+"config_id": "scenario_configuration",
+"tasks": [
+"TASK_train_3595c530-687d-4af5-9a9d-933651d22ab9",
+"TASK_get_results_9a87b3a6-0171-4d11-9a96-5cbc6be0f0b6",
+"TASK_infer_0ae3d626-d7c6-476e-8d3f-6e1ab3d19ca7"
+],
+"additional_data_nodes": [],
+"properties": {
+"name": "YOLOv5s"
+},
+"creation_date": "2024-04-13T20:05:30.833986",
+"primary_scenario": false,
+"subscribers": [],
+"tags": [],
+"version": "1.0",
+"sequences": null,
+"cycle": null
+}

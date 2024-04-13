@@ -1,0 +1,23 @@
+{
+"id": "JOB_train_26cea0d4-985a-489f-92b2-712203995e99",
+"task_id": "TASK_train_4f7a7368-5d8d-4425-a642-d9e7bc760b6b",
+"status": "<Status.COMPLETED: 7>",
+"force": false,
+"submit_id": "SUBMISSION_569bb7a1-f5df-4810-ba21-33df6b734b0a",
+"submit_entity_id": "SCENARIO_scenario_configuration_b0b5772e-b6c5-4af5-8627-ceb1152a76d5",
+"creation_date": "2024-04-13T19:54:13.047179",
+"subscribers": [
+{
+"fct_name": "_Orchestrator._update_submission_status",
+"fct_params": [],
+"fct_module": "taipy.core._orchestrator._orchestrator"
+},
+{
+"fct_name": "_Orchestrator._on_status_change",
+"fct_params": [],
+"fct_module": "taipy.core._orchestrator._orchestrator"
+}
+],
+"stacktrace": [],
+"version": "1.0"
+}
